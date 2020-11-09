@@ -1,0 +1,110 @@
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.pdb
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.xml
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form1.resources
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form2.resources
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Resources.resources
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.GenerateResource.Cache
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.xml
+c:\users\shofy\documents\visual studio 2010\Projects\Aplikasi_Pengajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.pdb
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.xml
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.pdb
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.pdb
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.xml
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form1.resources
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form2.resources
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Resources.resources
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.GenerateResource.Cache
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormHome.resources
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.xml
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.pdb
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.pdb
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.xml
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form1.resources
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form2.resources
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormHome.resources
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Resources.resources
+D:\numpang\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.GenerateResource.Cache
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form3.resources
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormDaftarAkun.resources
+D:\VB.Net\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormLogin.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.xml
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.pdb
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe.config
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.pdb
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.xml
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form1.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form2.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form3.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormDaftarAkun.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormHome.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormLogin.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Resources.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.GenerateResource.Cache
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Interop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\AxInterop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.ResolveComReference.cache
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe.config
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.ResolveComReference.cache
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.xml
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.pdb
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.pdb
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.xml
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Interop.Crystal.dll
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\AxInterop.Crystal.dll
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form1.resources
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form2.resources
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form3.resources
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormDaftarAkun.resources
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormHome.resources
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormLogin.resources
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Resources.resources
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.GenerateResource.Cache
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbprojResolveAssemblyReference.cache
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe.manifest
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.application
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe.manifest
+C:\Users\LAB INFO 1\Documents\Visual Studio 2010\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.application
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbprojResolveAssemblyReference.cache
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe.manifest
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.application
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe.manifest
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.application
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe.config
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.ResolveComReference.cache
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.xml
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.pdb
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe.manifest
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.application
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.exe
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.pdb
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Aplikasi_Pengajian.xml
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\Interop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\bin\Debug\AxInterop.Crystal.dll
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbprojResolveAssemblyReference.cache
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form1.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form2.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Form3.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormDaftarAkun.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormHome.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.FormLogin.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.Resources.resources
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.vbproj.GenerateResource.Cache
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.exe.manifest
+C:\Users\Muhamad Iqbal WP\Documents\Visual Studio 2010\Projects\Apl Test\aplikasi-penggajian\Aplikasi_Pengajian\obj\x86\Debug\Aplikasi_Pengajian.application

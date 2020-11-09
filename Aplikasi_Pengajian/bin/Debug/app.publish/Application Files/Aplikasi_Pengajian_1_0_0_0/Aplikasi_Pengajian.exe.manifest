@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Aplikasi_Pengajian.exe" version="1.0.0.0" publicKeyToken="ef1a5cdc08629a2c" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Aplikasi_Pengajian" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Aplikasi_Pengajian.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aplikasi_Pengajian.exe" size="332800">
+      <assemblyIdentity name="Aplikasi_Pengajian" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yFmYzeTKLJQHsCYRMAapXFU2YwU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.Crystal.dll" size="32256">
+      <assemblyIdentity name="AxInterop.Crystal" version="5.2.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>l5pkFIMI4kqE5MYskj/V0IMJNaE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.Crystal.dll" size="33280">
+      <assemblyIdentity name="Interop.Crystal" version="5.2.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>8eVTbxwc21BUjk1jex57LqGTl78=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Aplikasi_Pengajian.exe.config" size="419">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eu2r6oM/Zu+5FjyzbZW/ZtQ/9Kc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-0QF470O\LAB INFO 1" issuerKeyHash="5bb5d7ad532bedf986ff65bad0421ee5dff2c456" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>X9xxYws6GwZrPKcpTovDFrt+5tM=</DigestValue></Reference></SignedInfo><SignatureValue>RgGzA8P+/EHX9MuktkdU43qfZAj90DvCrw9FHhtS6isbGQdnyvZPwwzYmxuV7TT+hfZunXeonkexUL5eIoCbqq2JU1ZzXyC6TZnzK8ff3uLEScVUQu312SgpPxU1fTA55g6qAVDNzVX80zRZqJeTm4+tOPghOfOk+NUHNBhVmkA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uDPX/a/9niWlUhczzfcjL+XSa7dJRijHEJ/PcBenPaTyEcA2Z2cDDafwrGaiA0zxuBDDg741bYr8AcTqXqiMIJ+dG6wcOi4SapfSlmyiQgTbDRJMHnKnN4WRenhe8OnydlcDJVUazCPgWc+yXWJmy6YMXmGLXde0IEJiLs3TkFU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d3e67ebb16c38b4e29a73c6b061b3a0b6371dc5f" Description="" Url=""><as:assemblyIdentity name="Aplikasi_Pengajian.exe" version="1.0.0.0" publicKeyToken="ef1a5cdc08629a2c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-0QF470O\LAB INFO 1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ZD3vczIvKOZAUyd5US7aJRR2Yx0=</DigestValue></Reference></SignedInfo><SignatureValue>Ewmdo8WxDaOUvDrL+D0KXjXKR7VIht0nLN8wancESSmH02fWyduw5nmgyvyU1+VrULbqcl0LLkn9+eFUwY7GR/gYpIK/NBIhNwo0hhQAQMEgqTbBmu4h5Gt+LHNggNXT3+etO/JWr32EH7wpQhvMdYsUTnI3s3hcK4jjhkA7fcQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uDPX/a/9niWlUhczzfcjL+XSa7dJRijHEJ/PcBenPaTyEcA2Z2cDDafwrGaiA0zxuBDDg741bYr8AcTqXqiMIJ+dG6wcOi4SapfSlmyiQgTbDRJMHnKnN4WRenhe8OnydlcDJVUazCPgWc+yXWJmy6YMXmGLXde0IEJiLs3TkFU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQE1nuR8lJyYtAKxxaXPy2qDANBgkqhkiG9w0BAQUFADA/MT0wOwYDVQQDHjQARABFAFMASwBUAE8AUAAtADAAUQBGADQANwAwAE8AXABMAEEAQgAgAEkATgBGAE8AIAAxMB4XDTIwMTEwNTA3MjkwMloXDTIxMTEwNTEzMjkwMlowPzE9MDsGA1UEAx40AEQARQBTAEsAVABPAFAALQAwAFEARgA0ADcAMABPAFwATABBAEIAIABJAE4ARgBPACAAMTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuDPX/a/9niWlUhczzfcjL+XSa7dJRijHEJ/PcBenPaTyEcA2Z2cDDafwrGaiA0zxuBDDg741bYr8AcTqXqiMIJ+dG6wcOi4SapfSlmyiQgTbDRJMHnKnN4WRenhe8OnydlcDJVUazCPgWc+yXWJmy6YMXmGLXde0IEJiLs3TkFUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCsMezxpJnYZaGetdpcACe0XXQrL9TTkU9eKjtipYHLpgCD89CCo0EA/Gz5lhz2tAVbGwoVmfIw+TXQz/XSNL+UyHDlKbZAcIGjLNgpr9B6uJ4jTICgCB3NJh6wCCDwjXDaB/JmqoL7OARvefqfpFZ1wnDqPe/6CqQwjfVW0u71qQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
